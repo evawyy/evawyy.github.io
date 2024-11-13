@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: fuck
-  link: /fuck.html
 - name: Blog
   link: /blog.html
 - name: Staff
