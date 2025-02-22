@@ -6,7 +6,4 @@ categories: Play
 image: ./assets/images/post/musicgames.jpeg
 ---
 # Play Music Games Together 
-Today we have played music games together all the afternoon. Even though we all felt exhausted at the end, we were happy. 
-My life is so colorful and cozy. Right? With all the love from parents and friends, I have nothing to worry about. I appreciate 
-all the goodness happening ... I hope all the critical persons and stuffs would never leave me away. Anyway, E dancing can benefit 
-my health a lot. I can work out and not get bored.
+Today, we spent the entire afternoon playing music games together. Although we were all exhausted by the end, we were happy. My life feels so colorful and cozy, doesn't it? With the love and support from my parents and friends, I have nothing to worry about. I'm truly grateful for all the good things happening in my life. I hope the important people and things never leave me. Anyway, E's dancing really benefits my health—I can work out without ever getting bored.
