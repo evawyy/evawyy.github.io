@@ -32,6 +32,7 @@ github_username:  evawyy
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 gitalk:
   enable: true #是否开启Gitalk评论
