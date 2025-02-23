@@ -92,6 +92,25 @@ layout: base
                 </script>
                 {% endif %}
                 <!-- Gitalk end -->
+
+                {% if site.giscus.enable %}
+        <script src="https://giscus.app/client.js"
+        data-repo="evawyy/evawyy.github.io"
+        data-repo-id="R_kgDON9w8sw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDON9w8s84CnOmz"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_latte"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+        </script>
+        {% endif %}
   {%- if site.disqus.shortname -%}
     <div class="mx-auto max-w-prose py-8">
       {%- include disqus_comments.html -%}
