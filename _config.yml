@@ -34,15 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-gitalk:
-  enable: true #是否开启Gitalk评论
-  clientID: Ov23li6DGhPUcUirBTfu #生成的clientID
-  clientSecret: a168bdf5ec86f8bb662a09c3c565bef586253070 #生成的clientSecret
-  repo: evawyy.github.io #仓库名称
-  owner: evawyy #github用户名
-  admin: evawyy
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-# Exclude from processing.
 giscus:
   enable: true
 # gitalk:
