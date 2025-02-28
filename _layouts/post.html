@@ -154,7 +154,9 @@ layout: base
     crossorigin="anonymous"
     async
   ></script>
-  {% endif %} {%- if site.disqus.shortname -%}
+  {% endif %}
+  <!-- Giscus end-->
+  {%- if site.disqus.shortname -%}
   <div class="mx-auto max-w-prose py-8">
     {%- include disqus_comments.html -%}
   </div>
